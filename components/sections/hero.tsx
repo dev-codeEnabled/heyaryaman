@@ -69,7 +69,7 @@ export default function Hero() {
             >
               <div className="absolute -inset-0.5 bg-gradient-to-r from-primary to-purple-600 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt" />
               <Button asChild className="relative bg-background hover:bg-background/90">
-                <Link href="#contact" className="dark:text-white text-gray-900">
+                <Link href="#contact" className="dark:text-white text-black">
                   <Sparkles className="mr-2 h-4 w-4" />
                   Let's Connect <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
